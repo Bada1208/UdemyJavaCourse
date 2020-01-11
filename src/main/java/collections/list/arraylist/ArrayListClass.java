@@ -1,7 +1,6 @@
-package collections.arraylist;
+package collections.list.arraylist;
 
 import java.util.ArrayList;
-import java.util.LinkedList;
 import java.util.List;
 
 public class ArrayListClass {
